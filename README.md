@@ -3,7 +3,7 @@ I have created a website for a book store that asks the user to purchase a book 
 
 ## Contributors
 
-- Jason J F Ye -<jjfye882@gmail.com>
+- Jason J F Ye - <jjfye882@gmail.com>
 
 ## License & Copyright
 
