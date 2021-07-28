@@ -3,6 +3,6 @@ I have created a website for a book store that asks the user to purchase a book 
 
 ## License & Copyright
 
-© Jason Ye, Manchester Metropolitan University
+© Jason J F Ye, Manchester Metropolitan University
 
 Licensed under the [MIT License](LICENSE).
